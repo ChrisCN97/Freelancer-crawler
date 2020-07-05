@@ -1,2 +1,2 @@
 # Freelancer-crawler
-Get work's and developer's detail in completed missions based on python
+Get project's and developer's detail within each completed mission based on bs4
